@@ -28,7 +28,7 @@
 | 9 | **吹雪云（推荐）** | 直连 | `2元` / 128G `4元` / 512G  `6元` / 1000G `18.8元` / 888G (永久) | [🚀 点击前往注册](https://xn--9kqs1lo79d.com/#/register?code=T1GB1Khb) |
 | 10| **肯の机（推荐/有0.01普通直连）** | 三网精品直连 | `40元` / 100G  `60元` / 150G `80元` / 200G | [🚀 点击前往注册](https://cdn.kendeji.io/#/auth?invite=uuBbsrcg) |
 | 11 | **喵喵** | 中转 | `10元` / 120G  `18元` / 250G  `35元` / 500G | [🚀 点击前往注册](https://nachoneko.cc/#/register?code=SsqPHwRT) |
-| 12 | **神龙** | 中转 | `10元` / 100G  `15元` / 180G  `45元` / 256G (永久) | [🚀 点击前往注册](https://shenlong.wiki/#/register?code=L8HkKtfe) |
+| 12 | **神龙** | 专线 | `10元` / 100G  `15元` / 180G  `45元` / 256G (永久) | [🚀 点击前往注册](https://shenlong.wiki/#/register?code=L8HkKtfe) |
 | 13| **红杏（八折优惠码:lu88/送emby）** | 专线 | `20元` / 200G  `40元` / 500G  `60元` / 800G | [🚀 点击前往注册](https://hongxingdl.one/web/#/login?code=rb4WZSwt) |
 | 14| **大机场** | 直连 | `4.99元` / 1024G  `6.99元` / 2048G  `9.99元` / 4096G | [🚀 点击前往注册](https://xn--mesr8b36x.com/#/register?code=BsFRhLTR) |
 | 15| **北美机场** | 直连 | `2.9元` / 2000G  `9.9元年付` / 1000G每月 | [🚀 点击前往注册](https://xn--djr29gc2r0vx.com/#/register?code=uaZiJKnO) |
