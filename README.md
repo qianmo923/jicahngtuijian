@@ -72,7 +72,7 @@
 | 2 | **神龙** | `10元` / 100G · `15元` / 180G · `45元` / 256G (不限时) | [🚀 前往注册](https://shenlong.wiki/#/register?code=L8HkKtfe) |
 | 3 | **红杏** `🎬送Emby` `八折码:lu88` | `20元` / 200G · `40元` / 500G · `60元` / 800G | [🚀 前往注册](https://hongxingdl.one/web/#/login?code=rb4WZSwt) |
 | 4 | **两元店** | 中转季付: `18元` / 1024G · 直连季付: `8元` / 1024G | [🚀 前往注册](https://xn--5hqx9equq.com/#/register?code=piIzrG9s) |
-| 5 | **雪山** `🎬送Emby` | `9.9元` / 500G · 年付: `29.9元` / 每月200G · `39.9元` / 10000G | [🚀 前往注册](https://xh.xueshan.us/#/register?code=i7vVZ6rR) |
+| 5 | **雪山** `🎬送Emby` | `9.9元` / 500G · 年付: `29.9元` / 每月200G · `39.9元` / 10000G | [🚀 前往注册](https://xh.xueshan.us/#/register?code=2wg67Zuc) |
 | 6 | **KTM** `八五折码:OFF85` | 季付: `20.97元` / 每月500G · `13.98元` / 1024G | [🚀 前往注册](https://ktm001.pro/#/register?code=W34nYd0l) |
 | 7 | **喵喵** | `10元` / 120G · `18元` / 250G · `35元` / 500G | [🚀 前往注册](https://nachoneko.cc/#/register?code=SsqPHwRT) |
 | 8 | **NiceDuck** `🎬送Emby` | `16元` / 100G · `26元季付` / 每月60G | [🚀 前往注册](https://x.niceduck.sh/register?code=pr2T3132) |
@@ -87,7 +87,7 @@
 | :---: | :--- | :--- | :--- |
 | 1 | **良心云** `有低倍率` `七五折码:甜蜜七夕` | `2元` / 100G · `4元` / 500G · `6元` / 1000G · `21元` / 1000G (不限时) | [🚀 前往注册](https://xn--9kqz23b19z.com/#/register?code=msNDGmBf) |
 | 2 | **赔钱机场** `有低倍率` `七五折码:七夕` | `2.99元` / 500G · `5.99元` / 1000G · `12.99元` / 5000G | [🚀 前往注册](https://xn--cp3a08l.com/register?code=yfUwVvmt&cover=sfw) |
-| 3 | **亏本机场** `低倍率` | `1.99元` / 500G · `3.99元` / 1111G · `9.99元` / 1234G (不限时) | [🚀 前往注册](https://xn--7kq24s4ynvb.site/#/register?code=X0fCQPck) |
+| 3 | **亏本机场** `有低倍率` | `1.99元` / 500G · `3.99元` / 1111G · `9.99元` / 1234G (不限时) | [🚀 前往注册](https://xn--7kq24s4ynvb.site/#/register?code=X0fCQPck) |
 | 4 | **一分机场** `七折码:70off` `低倍率` | `2元` / 100G · `6元` / 1000G · `19.88元` / 1000G (不限时) | [🚀 前往注册](https://xn--4gqx1hgtfdmt.com/#/register?code=yKYDLBNj) |
 | 5 | **吹雪云** `七折码:七夕` | `2元` / 128G · `4元` / 512G · `6元` / 1000G · `18.8元` / 888G (不限时) | [🚀 前往注册](https://xn--9kqs1lo79d.com/#/register?code=T1GB1Khb) |
 | 6 | **大机场** | `4.99元` / 1024G · `6.99元` / 2048G · `9.99元` / 4096G | [🚀 前往注册](https://xn--mesr8b36x.com/#/register?code=BsFRhLTR) |
