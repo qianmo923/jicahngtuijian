@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d2ff"/>
+      <stop offset="100%" style="stop-color:#3a7bd5"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="240" fill="url(#bg)"/>
+  <circle cx="750" cy="50" r="180" fill="#3a7bd5" opacity="0.08"/>
+  <circle cx="100" cy="200" r="120" fill="#00d2ff" opacity="0.06"/>
+  <text x="450" y="100" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="800" fill="url(#accent)" filter="url(#glow)">✈️ 机场推荐</text>
+  <text x="450" y="150" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#a0aec0" letter-spacing="4">2026 · 高性价比 · 稳定 · 精选</text>
+  <text x="450" y="190" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#636e7a">真实体验整理 · 持续更新 · 省心必备清单 · 少踩坑，稳又好用</text>
+  <line x1="200" y1="215" x2="700" y2="215" stroke="#3a7bd5" stroke-width="1" opacity="0.3"/>
+  <circle cx="450" cy="215" r="3" fill="#00d2ff"/>
+</svg>
