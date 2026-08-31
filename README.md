@@ -88,7 +88,7 @@
 | 1 | **良心云** `有低倍率` | `2元` / 100G · `4元` / 500G · `6元` / 1000G · `21元` / 1000G (不限时) | [🚀 前往注册](https://xn--9kqz23b19z.com/#/register?code=msNDGmBf) |
 | 2 | **赔钱机场** `有低倍率` | `2.99元` / 500G · `5.99元` / 1000G · `12.99元` / 5000G | [🚀 前往注册](https://xn--cp3a08l.com/register?code=yfUwVvmt&cover=sfw) |
 | 3 | **亏本机场** `有低倍率` | `1.99元` / 500G · `3.99元` / 1111G · `9.99元` / 1234G (不限时) | [🚀 前往注册](https://xn--7kq24s4ynvb.site/#/register?code=X0fCQPck) |
-| 4 | **一分机场** `七折码:70off` `低倍率` | `2元` / 100G · `6元` / 1000G · `19.88元` / 1000G (不限时) | [🚀 前往注册](https://xn--4gqx1hgtfdmt.com/#/register?code=yKYDLBNj) |
+| 4 | **一分机场** `有低倍率` | `2元` / 100G · `6元` / 1000G · `19.88元` / 1000G (不限时) | [🚀 前往注册](https://xn--4gqx1hgtfdmt.com/#/register?code=yKYDLBNj) |
 | 5 | **吹雪云** | `2元` / 128G · `4元` / 512G · `6元` / 1000G · `18.8元` / 888G (不限时) | [🚀 前往注册](https://xn--9kqs1lo79d.com/#/register?code=T1GB1Khb) |
 | 6 | **大机场** | `4.99元` / 1024G · `6.99元` / 2048G · `9.99元` / 4096G | [🚀 前往注册](https://xn--mesr8b36x.com/#/register?code=BsFRhLTR) |
 | 7 | **北美机场** | `2.9元` / 2000G · `9.9元年付` / 1000G每月 | [🚀 前往注册](https://xn--djr29gc2r0vx.com/#/register?code=uaZiJKnO) |
